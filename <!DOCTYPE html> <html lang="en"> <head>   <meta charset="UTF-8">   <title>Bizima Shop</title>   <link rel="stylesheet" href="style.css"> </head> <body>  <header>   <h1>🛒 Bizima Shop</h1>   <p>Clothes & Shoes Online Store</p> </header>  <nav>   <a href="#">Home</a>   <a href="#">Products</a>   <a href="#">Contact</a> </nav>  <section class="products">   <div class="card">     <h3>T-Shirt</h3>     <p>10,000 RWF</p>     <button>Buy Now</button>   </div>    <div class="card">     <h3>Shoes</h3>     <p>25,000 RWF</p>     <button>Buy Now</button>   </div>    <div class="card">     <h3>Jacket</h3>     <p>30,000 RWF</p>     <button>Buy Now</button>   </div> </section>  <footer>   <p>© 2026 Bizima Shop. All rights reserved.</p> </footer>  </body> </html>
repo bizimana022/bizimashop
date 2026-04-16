@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bizima Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>🛒 Bizima Shop</h1>
+  <p>Clothes & Shoes Online Store</p>
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#">Products</a>
+  <a href="#">Contact</a>
+</nav>
+
+<section class="products">
+  <div class="card">
+    <h3>T-Shirt</h3>
+    <p>10,000 RWF</p>
+    <button>Buy Now</button>
+  </div>
+
+  <div class="card">
+    <h3>Shoes</h3>
+    <p>25,000 RWF</p>
+    <button>Buy Now</button>
+  </div>
+
+  <div class="card">
+    <h3>Jacket</h3>
+    <p>30,000 RWF</p>
+    <button>Buy Now</button>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Bizima Shop. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
